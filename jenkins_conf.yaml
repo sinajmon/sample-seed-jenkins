@@ -1,0 +1,5 @@
+jenkins:
+  systemMessage: "Controlled by Configuration as Code"
+jobs:
+  
+  - url: https://raw.githubusercontent.com/sinajmon/seedpipe/main/seed.groovy
